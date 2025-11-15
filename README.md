@@ -15,13 +15,14 @@ Code base to reproduce results in :
     pages     = {4938-4946}
 }
 
-@article{Bonazzi2025IJCNN,
-    author    = {Bonazzi, Pietro and Vogt, Christian and Jost, Michael and Qin, Haotong and Khacef, Lyes and Paredes-Valles, Federico and Magno, Michele},
-    title     = {RGB-Event Fusion with Self-Attention for Collision Prediction.},
-    journal = {International Joint Conference on Neural Networks (IJCNN)},
-    month     = {June},
-    year      = {2025}, 
-}
+@InProceedings{Bonazzi_2025_IJCNN,
+  author={Bonazzi, Pietro and Vogt, Christian and Jost, Michael and Qin, Haotong and Khacef, Lyes and Paredes-Valles, Federico and Magno, Michele},
+  booktitle={2025 International Joint Conference on Neural Networks (IJCNN)}, 
+  title={RGB-Event Fusion with Self-Attention for Collision Prediction}, 
+  year={2025},
+  pages={1-6},
+  keywords={Event detection;Computational modeling;Neural networks;Robot vision systems;Predictive models;Throughput;Computational efficiency;Collision avoidance;Vehicle dynamics;Drones;Drone;TinyML;Obstacle Avoidance;Event-Based Camera},
+  doi={10.1109/IJCNN64981.2025.11227211}}
 ```
 
 Leave a star to support our open source initiative!⭐️ 
